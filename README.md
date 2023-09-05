@@ -40,5 +40,5 @@ Learning centering elements.
 
 ## Author
 
-- Website - [Magrid](https://magrid.altervista.org)
+- Website - [Magrid0](https://magrid.altervista.org)
 - Frontend Mentor - [@Magrid0](https://www.frontendmentor.io/profile/Magrid0)

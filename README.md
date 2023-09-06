@@ -21,12 +21,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![N/A]()
+![](Screenshot 2023-09-06 at 14-34-11 Frontend Mentor QR code component.png)
 
 ### Links
 
-- Solution URL: [N/A](#)
-- Live Site URL: [https://magrid0.github.io/QR-code-component/](https://magrid0.github.io/QR-code-component/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-code-component-with-html-and-css-41-ZSb0H7K)
+- Live Site URL: [Live Site](https://magrid0.github.io/QR-code-component/)
 
 ## My process
 
@@ -36,7 +36,7 @@ Learning centering elements.
 
 ### Useful resources
 
-- [StackOverflow](https://stackoverflow.com/questions/396145/how-can-i-vertically-center-a-div-element-for-all-browsers-using-css#6182661) - This helped me to center the qr code image.
+- [StackOverflow](https://stackoverflow.com/questions/396145/how-can-i-vertically-center-a-div-element-for-all-browsers-using-css#6182661) - This helped me to center the qr code image and the other elements.
 
 ## Author
 

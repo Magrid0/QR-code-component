@@ -7,6 +7,7 @@ body {
     border-radius: 25px;
     z-index: 2;
     margin-left: 7.5%;
+    
 }
 
 .outer {
@@ -29,11 +30,25 @@ body {
     width: 300px;
   }
 
-.whiteBox {
-    width: 100%;
-    border-radius: 25px;
-    z-index: 1;
+.heading {
+  color: hsl(218, 44%, 22%);
+  font-size: 26px;
+}
 
-    background-color: white;
-    text-align: center;
+.paragraph {
+  color: hsl(210, 1%, 31%);
+  font-size: 18px;
+}
+
+.text {
+  font-weight: 400, 700;
+  font-family: 'Outfit', sans-serif;
+  text-align: center;
+  z-index: 2;
+}
+
+.box {
+  z-index: 1;
+  background-color: white;
+  border-radius: 25px;
 }
